@@ -115,7 +115,7 @@ function MySkillsPage() {
           <DesCription>
             <strong>Skills</strong>
             <p>
-              Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase
+              Html, Css, Js, React, Redux, Redux-thunk, Sass, Bootstrap, Styled-Components Tailwind, Firebase
               etc.
             </p>
           </DesCription>
